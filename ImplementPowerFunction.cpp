@@ -26,3 +26,4 @@ int Solution::pow(int x, int n, int d) {
         return positiveModulo(temp*x,d);        //if n is odd, n=(n/2)+(n/2)+1
     
 }
+
