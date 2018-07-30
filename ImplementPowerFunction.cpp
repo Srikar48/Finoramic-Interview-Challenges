@@ -1,5 +1,5 @@
 /*
-As a remainder must always be +ve, we need to implement a function to handle modulo of -ve numbers. 
+As remainder must always be +ve, we need to implement a function to handle modulo of -ve numbers. 
 */
 
 inline int positiveModulo(long long a, int b) {
